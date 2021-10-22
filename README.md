@@ -12,3 +12,4 @@ copy .bashrc to ~/.bashrc for `tm` alias setup
 
 
 ## powerline font
+https://microhobby.com.br/blog/2020/05/23/how-to-install-powerline-for-bash-wsl-and-native-linux/
