@@ -5,3 +5,10 @@
 
 
 ## tmux setup
+
+https://github.com/samoshkin/tmux-config
+
+copy .bashrc to ~/.bashrc for `tm` alias setup
+
+
+## powerline font
