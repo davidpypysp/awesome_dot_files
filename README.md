@@ -1,10 +1,14 @@
 ## vim setup
 
+After install vim
+
 1. copy .vimrc to ~/.vimrc
 2. install vundle plugin https://github.com/VundleVim/Vundle.vim
 
 
 ## tmux setup
+
+After install tmux
 
 https://github.com/samoshkin/tmux-config
 
